@@ -1,0 +1,10 @@
+d:war/
+d:data
+i:data/astroid.png
+i:data/bg.png
+i:data/left.png
+i:data/libgdx.png
+i:data/player.gif
+i:data/Player.png
+i:data/right.png
+i:data/up.png
